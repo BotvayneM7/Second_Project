@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78e523fef05b44d45aff63a8e04a34d9
+timeCreated: 1465830869
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/door material.mat
+  uploadId: 615967

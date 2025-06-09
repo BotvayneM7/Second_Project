@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d51728d2ba287cc439d18e2ba0eaac85
+timeCreated: 1466154984
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/fabric2.mat
+  uploadId: 615967

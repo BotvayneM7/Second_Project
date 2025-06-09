@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53abd0ac6b48e8849ad0824759bd51df
+timeCreated: 1465922002
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/wall.mat
+  uploadId: 615967

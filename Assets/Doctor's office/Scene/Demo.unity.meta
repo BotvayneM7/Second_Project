@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43290de4958153940acb3d7ef6dd6a70
+timeCreated: 1465072756
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Scene/Demo.unity
+  uploadId: 615967

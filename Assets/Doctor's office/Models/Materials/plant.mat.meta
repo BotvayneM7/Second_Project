@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30c97acd1044edc44945d2dccadde563
+timeCreated: 1466149971
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/plant.mat
+  uploadId: 615967

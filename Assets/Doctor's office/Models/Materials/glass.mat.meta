@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3132d8934fefb34880a04bc3166cad7
+timeCreated: 1465814757
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/glass.mat
+  uploadId: 615967

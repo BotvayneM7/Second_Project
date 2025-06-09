@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 736583a48e28e4b47bbaa047945aef45
+timeCreated: 1466065668
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/window.mat
+  uploadId: 615967

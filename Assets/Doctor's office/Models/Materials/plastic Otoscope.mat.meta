@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab804d10a0863994cb605bae86c37b32
+timeCreated: 1465749836
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/plastic Otoscope.mat
+  uploadId: 615967

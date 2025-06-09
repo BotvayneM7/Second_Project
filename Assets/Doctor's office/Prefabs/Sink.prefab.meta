@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0adb3e76ce04edf4c9df8a212609ae1b
+timeCreated: 1466170120
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Sink.prefab
+  uploadId: 615967

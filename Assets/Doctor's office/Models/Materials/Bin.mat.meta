@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c845cf8b71dc1fb459b6ade418979eac
+timeCreated: 1466066305
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/Bin.mat
+  uploadId: 615967

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9952f1236b482d84a997424b1fb1eb07
+timeCreated: 1466170225
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Tongue Depressors.prefab
+  uploadId: 615967

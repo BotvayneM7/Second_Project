@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 578f307b15cc8714ba63fecbbd17889a
+timeCreated: 1466170061
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Poster letters.prefab
+  uploadId: 615967

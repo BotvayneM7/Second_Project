@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8e26786d79a98849bac34db9fd06aeb
+timeCreated: 1466169818
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Ceiling.prefab
+  uploadId: 615967

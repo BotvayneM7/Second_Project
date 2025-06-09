@@ -1,0 +1,15 @@
+# Ignore Visual Studio temp files
+.vs/
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+# Auto-generated VS/IDE files
+*.csproj
+*.sln
+*.user

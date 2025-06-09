@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72106c31a3394ee40a7d4bfa83d9fbd7
+timeCreated: 1466169964
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Paper.prefab
+  uploadId: 615967

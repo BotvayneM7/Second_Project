@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36a1bfbb46ef9e6449afe7b6c049485c
+timeCreated: 1466169886
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Door.prefab
+  uploadId: 615967

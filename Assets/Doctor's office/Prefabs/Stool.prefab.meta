@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a54fc584ed236314b81a114b153b06a0
+timeCreated: 1466170195
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Stool.prefab
+  uploadId: 615967

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f88288d4e8867e54cb98aaebfa5761e2
+timeCreated: 1466097099
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/blood pressure tester.mat
+  uploadId: 615967

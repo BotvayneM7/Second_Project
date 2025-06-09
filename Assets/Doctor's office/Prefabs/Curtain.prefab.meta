@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d63808de276d314b8a4441cb34f6ba6
+timeCreated: 1466169866
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Curtain.prefab
+  uploadId: 615967

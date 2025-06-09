@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e899df8c475e14f409a8c59e23ca7737
+timeCreated: 1466170034
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Prefabs/Poster 4.prefab
+  uploadId: 615967

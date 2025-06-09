@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cae94ed036ff779448e9b882e671679f
+timeCreated: 1465749837
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/light.mat
+  uploadId: 615967

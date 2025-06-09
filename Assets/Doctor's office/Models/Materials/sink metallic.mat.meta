@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0434f3fd40b2724a915951e94c4b518
+timeCreated: 1465918235
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/sink metallic.mat
+  uploadId: 615967

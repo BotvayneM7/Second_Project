@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5af55530ffa393b4a825d8e5d15bba56
+timeCreated: 1465749837
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/table tools.mat
+  uploadId: 615967

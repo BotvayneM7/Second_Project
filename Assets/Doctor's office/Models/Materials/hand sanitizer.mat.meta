@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9d5a8e251d17db4bb37084dacb42b7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/hand sanitizer.mat
+  uploadId: 615967

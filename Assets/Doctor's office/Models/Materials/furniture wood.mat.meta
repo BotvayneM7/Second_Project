@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e50b69654dfca174183a09a1c66a0d8f
+timeCreated: 1465918914
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/furniture wood.mat
+  uploadId: 615967

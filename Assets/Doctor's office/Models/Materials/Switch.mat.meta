@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f414eff191333745bd94a183655eddc
+timeCreated: 1465827356
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/Switch.mat
+  uploadId: 615967

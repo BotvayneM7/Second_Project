@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f5650370b47adb43886d4af9a5cbb5f
+timeCreated: 1465749836
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65226
+  packageName: Hospital Doctor's Office
+  packageVersion: 1.2
+  assetPath: Assets/Doctor's office/Models/Materials/Otoscope metallic.mat
+  uploadId: 615967
