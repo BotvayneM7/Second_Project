@@ -7,12 +7,12 @@ public class SinkWashTrigger : MonoBehaviour
     public GameObject player;
     public Camera mainCamera;
     public Camera washCamera;
-    public Animator handsAnimator;   // Animator for the hands
-    public Animator waterAnimator;   // Animator for the water stream
+    public Animator handsAnimator;   
+    public Animator waterAnimator;   
 
     [Header("Settings")]
     public string washAnimName = "Hand Washing";
-    public string waterAnimName = "Water";        // Name of your water‐flow state
+    public string waterAnimName = "Water";        
     public float washDuration = 1.0f;
     public KeyCode washKey = KeyCode.E;
 
@@ -21,14 +21,14 @@ public class SinkWashTrigger : MonoBehaviour
 
     void Start()
     {
-        // Hide the wash camera and both animators' GameObjects at start
+       
         washCamera.enabled = false;
         if (handsAnimator != null)
             handsAnimator.gameObject.SetActive(false);
         if (waterAnimator != null)
             waterAnimator.gameObject.SetActive(false);
 
-        // Cache PlayerController
+       
         if (player != null)
         {
             playerController = player.GetComponent<PlayerController>();
@@ -45,32 +45,32 @@ public class SinkWashTrigger : MonoBehaviour
 
     private IEnumerator PlayWashSequence()
     {
-        // disable player input
+       
         if (playerController != null)
             playerController.enabled = false;
 
-        // switch cameras
+       
         mainCamera.enabled = false;
         washCamera.enabled = true;
 
-        // show and trigger water animation
+       
         if (waterAnimator != null)
         {
             waterAnimator.gameObject.SetActive(true);
             waterAnimator.Play(waterAnimName, 0, 0f);
         }
 
-        // show and trigger hand animation
+       
         if (handsAnimator != null)
         {
             handsAnimator.gameObject.SetActive(true);
             handsAnimator.Play(washAnimName, 0, 0f);
         }
 
-        // wait for the washDuration
+       
         yield return new WaitForSeconds(washDuration);
 
-        // hide water and hands, switch back cameras
+       
         if (waterAnimator != null)
             waterAnimator.gameObject.SetActive(false);
         if (handsAnimator != null)
@@ -79,7 +79,7 @@ public class SinkWashTrigger : MonoBehaviour
         washCamera.enabled = false;
         mainCamera.enabled = true;
 
-        // re-enable player input
+        
         if (playerController != null)
             playerController.enabled = true;
     }
